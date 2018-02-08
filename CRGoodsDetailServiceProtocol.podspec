@@ -11,7 +11,7 @@ s.description = <<-DESC
 		this is CRGoodsDetailServiceProtocol
 		DESC
 
-s.homepage = "https://github.com/xiaoshangWow.CRGoodsDetailServiceProtocol"
+s.homepage = "https://github.com/xiaoshangWow/CRGoodsDetailServiceProtocol"
 
 s.license = { :type => "MIT", :file => "FILE_LICENSE" }
 
