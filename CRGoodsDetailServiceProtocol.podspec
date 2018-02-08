@@ -19,7 +19,7 @@ s.author = { "许磊" => "lxu@jinhetech.com" }
 
 s.platform = :ios, "7.0"
 
-s.source = = { :git => "https://github.com/xiaoshangWow/CRGoodsDetailServiceProtocol.git", :tag => s.version }
+s.source = { :git => "https://github.com/xiaoshangWow/CRGoodsDetailServiceProtocol.git", :tag => s.version }
 
 s.source_files = "CRGoodsDetailServiceProtocol/CRGoodsDetailServiceProtocol/**/*.{h,m}"
 
