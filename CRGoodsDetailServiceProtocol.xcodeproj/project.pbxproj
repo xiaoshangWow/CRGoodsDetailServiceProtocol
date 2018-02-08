@@ -51,6 +51,7 @@
 		3BB86A15202C1BDA00132467 /* CRGoodsDetailServiceProtocolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CRGoodsDetailServiceProtocolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BB86A19202C1BDA00132467 /* CRGoodsDetailServiceProtocolUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CRGoodsDetailServiceProtocolUITests.m; sourceTree = "<group>"; };
 		3BB86A1B202C1BDA00132467 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BB86A2B202C1CA300132467 /* CRGoodsDetailServiceProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CRGoodsDetailServiceProtocol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 		3BB869F4202C1BDA00132467 /* CRGoodsDetailServiceProtocol */ = {
 			isa = PBXGroup;
 			children = (
+				3BB86A27202C1C2C00132467 /* CRGoodsDetailServiceProtocol */,
 				3BB869F5202C1BDA00132467 /* AppDelegate.h */,
 				3BB869F6202C1BDA00132467 /* AppDelegate.m */,
 				3BB869F8202C1BDA00132467 /* ViewController.h */,
@@ -130,6 +132,14 @@
 				3BB86A1B202C1BDA00132467 /* Info.plist */,
 			);
 			path = CRGoodsDetailServiceProtocolUITests;
+			sourceTree = "<group>";
+		};
+		3BB86A27202C1C2C00132467 /* CRGoodsDetailServiceProtocol */ = {
+			isa = PBXGroup;
+			children = (
+				3BB86A2B202C1CA300132467 /* CRGoodsDetailServiceProtocol.h */,
+			);
+			path = CRGoodsDetailServiceProtocol;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
