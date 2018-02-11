@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-@protocol CRGoodsDetailServiceProtocol <NSObject>
+@protocol CRGoodsDetailServiceProtocol  <NSObject>
 
 @required;
 
